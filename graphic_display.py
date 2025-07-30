@@ -26,7 +26,7 @@ def user_choice():
         port_scanner()
     elif choice == 2:
         print("\n")
-        sysystemInformation()
+        systemInformation()
     elif choice ==3:
         print_readme()
     elif choice == 4:
